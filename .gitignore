@@ -1,9 +1,0 @@
-.env
-__pycache__/
-*.pyc
-*.pyo
-*.db
-uploads/
-venv/
-.venv/
-*.png
